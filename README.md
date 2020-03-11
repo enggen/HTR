@@ -1,4 +1,4 @@
 # Handwritten Text Recognisation with Tensorflow
 
 Handwritten Text Recognisation With Tensorflow
-### CNN
+#### Convolutional Neural Network (CNN)
